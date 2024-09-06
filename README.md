@@ -40,7 +40,7 @@
 
 ###
 
-<p align="left">Sigueme es redes sociales.</p>
+<p align="left">Sigueme en estas redes sociales.</p>
 
 ###
 
